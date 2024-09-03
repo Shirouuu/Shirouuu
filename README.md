@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I'm Gustavo Marques Garcia, a cybersecurity student focused on penetration testing. I'm currently learning Python to build tools and automate tasks that enhance my pentesting skills.<br><br>I've gained some practical experience by successfully identifying and exploiting vulnerabilities in controlled environments. These experiences have deepened my passion for ethical hacking and driven me to keep improving.<br><br>Check out my repositories for scripts and projects that reflect my journey. I'm always open to connecting with others who share an interest in cybersecurity!
 
 
